@@ -95,7 +95,7 @@ You can generate javadoc on the sources with:
 
 ## Customize the project
 
-For training classes, that uses shared artifact- and web-server, you need to make sure both webapp and artifact have a unique name.
+For training classes, that uses shared artifact- and web-server, you need to make sure both webapp and artifact have a unique name. 
 
 Patch the following line in `build.gradle` replacing _mytrainingusername_ with your own name, initial or Github account id.
 
